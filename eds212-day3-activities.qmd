@@ -1,0 +1,20 @@
+---
+title: "eds212-day3-tasks"
+author: "zachyloo"
+format: html
+editor: visual
+---
+
+## Part 2. Coding Practice - Vectors
+
+```{r}
+# create vectors a & b
+vec_a <- c(1,6)
+vec_b <- c(2,4)
+
+# check part 1 results
+vec_a + vec_b
+vec_b - vec_a
+2 * vec_a
+vec_a %*% vec_b
+```
